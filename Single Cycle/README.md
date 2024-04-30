@@ -1,6 +1,6 @@
 For this project the goal was to create a 64 bit single cycle CPU that uses some basic insructions. This uses an ALU and register file I developed as well. These were mostly implemented using gate level instansiation. The instruction set was defined as follows:
 
-ADDI rd, rn, imm12 \n
+ADDI rd, rn, imm12  <br />
 ADDS rd, rn, rm
 B imm26
 B.LT imm19
